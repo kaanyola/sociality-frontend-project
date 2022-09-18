@@ -1,3 +1,5 @@
-# sociality-frontend-project
+# Sociality Frontend Project
 
-this is a repo of frontend project which is given by sociality.io
+This project is a frontend project which is given by Sociality.
+
+### Project Assets
