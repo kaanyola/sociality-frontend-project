@@ -6,7 +6,13 @@ This project is a frontend project which is given by Sociality.
 
 This project is made using React.js. Also is created with Vite.js.
 
-### Run
+### Installation
+
+```
+npm run dev
+```
+
+### Usage
 
 ```
 npm run dev
