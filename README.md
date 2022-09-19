@@ -9,7 +9,7 @@ This project is made using React.js. Also is created with Vite.js.
 ### Installation
 
 ```
-npm run dev
+npm install
 ```
 
 ### Usage
